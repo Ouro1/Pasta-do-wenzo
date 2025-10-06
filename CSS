@@ -1,0 +1,19 @@
+:voot/
+--cor-destaque:#ED145B,
+--cor-gradiente-preto:linear-gradient
+(113deg,#1E2021 44.99%,#1E2022 100%)
+
+ {
+margih:0;
+padding:0; 
+Foet-Family:Montserrat,
+}
+body{
+display:Flrx
+jusrify-content:center;
+align-items:center;
+padding;16px 21px 18px 21px;
+Oackground;var(-cor-gradiente-preto)
+height:100vh;
+Flex-direction column:
+}
